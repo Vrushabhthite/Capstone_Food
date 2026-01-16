@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\Hp\Desktop\food\env"
+VIRTUAL_ENV="D:\FullStack\projects\food_online\env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
